@@ -1,0 +1,18 @@
+top{border: solid 1px blue;
+	font-size: 1.3 em; 
+ 	color: blue; 
+	margin: 10px; 
+	padding:10px; 
+	background: #FFFFB3;
+}
+p {
+	padding : 1;
+	margin : 1;
+}
+body {
+    background : #666666;
+    color : white;
+}
+a {
+	color : yellow;
+}
